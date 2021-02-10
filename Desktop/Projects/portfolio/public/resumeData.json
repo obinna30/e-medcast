@@ -1,45 +1,45 @@
 {
   "main": {
     "name": "Ekwealor, Emmanuel",
-    "occupation": "Full-Stack Developer",
-    "description": "i love creating new things and expressing myself through coding",
+    "occupation": "Full-Stack Software delevoper",
+    "description": "Hard working, dedicated and easy going developer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Emmanuel,  Full stack developer capable of building responsive web apps and unique mobile app designs using modern technologies like React, Redux, Node/Express.js Mongoose, Mongodb, Firebase.",
-    "contactmessage": "You can reach out to me through: ",
-    "email": "ekwealorobinna@yahoo.com",
+    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me for collaborations to change the world together",
+    "email": "ekwealorobinna@yaho.com",
     "phone": "+234 706 547 7408",
     "address": {
-      "street": "no 5 Mbanefo Street, Block Busstop, New Heaven, Enugu State",
-      "city": "Enugu",
-      "state": "Enugu",
-      "zip": ""
+      "street": "5 Iyabeji Street, Royal PalmWill Estate, Badore Road, Ajah",
+      "city": "Lagos",
+      "state": "Lagos",
+      "zip": "101245"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "",
-        "url": "",
-        "className": ""
+        "name": "twitter",
+        "url": "https://twitter.com/Ekwealor_obinna",
+        "className": "fa fa-twitter"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/obinna.ekwealor.9/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/emmanuel-obinna-40b297128/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/oblings_official/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/obinna30",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Nigeria, Nsukka",
+        "school": "University of Nigeria Nsukka",
         "degree": "Bachelor's Degree",
-        "graduated": "July 2016",
+        "graduated": "february 2017",
         "description": "Graduated with Distinctions"
       }
     ],
     "work": [
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
     ],
     "skills": [
