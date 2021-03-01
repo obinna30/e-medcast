@@ -18,7 +18,6 @@
   );
 }
 
-
 .loginScreen_body > h1 {
   font-size: 3.125rem;
   margin: 20px;
@@ -39,9 +38,10 @@
   text-align: center;
   color: white;
   padding: 20px;
-  
   margin-left: auto;
   margin-right: auto;
+  left: 0;
+  right: 0;
 }
 .loginScreen_logo {
   position: fixed;
@@ -65,19 +65,24 @@
   cursor: pointer;
   border-radius: 5px;
 }
+.loginScreen_input {
+  margin: 20px;
+}
 
 .loginScreen_input > form > input {
-    padding: 10px;
-    outline-width: 0;
-    height: 30PX;
-    width: 30%;
-    border: none;
-    max-width: 600px;
+  padding: 10px;
+  outline-width: 0;
+  height: 30px;
+  width: 30%;
+  border: none;
+  max-width: 600px;
 }
-.loginScreen_getStarted{
-    padding: 16px 20px;
-    font-size: 1rem;
-    color: white;
-    background-color: red;
-    border: none;
+.loginScreen_getStarted {
+  padding: 16px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: red;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
 }
