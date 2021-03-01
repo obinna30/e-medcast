@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    background-color: var(--slack-color);
+    color: white;
+}
+.header_left{
+    flex: 0.3;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.header_avatar:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.header_left > .MuiSvgIcon-root {
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.header_search{
+    flex: 0.4;
+    opacity: 1;
+    background-color: purple;
+    text-align: center;
+    display: flex;
+    padding: 0 50px;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+.header_search > input{
+    outline: none;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    min-width: 35vw;
+    color: white;
+}
+.header_right{
+    flex: 0.3;
+    display: flex;
+    align-items: flex-end;
+}
+.header_right > .MuiSvgIcon-root {
+    margin-left: auto;
+    margin-right: 20px;
+}
